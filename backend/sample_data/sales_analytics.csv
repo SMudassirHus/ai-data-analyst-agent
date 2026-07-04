@@ -1,0 +1,13 @@
+Order ID,Order Date,Region,Category,Sales,Profit,Quantity
+5001,2025-01-12,East,Technology,12400,3100,4
+5002,2025-01-20,West,Furniture,8900,1200,3
+5003,2025-02-03,South,Office Supplies,3200,800,8
+5004,2025-02-18,East,Furniture,7600,1500,2
+5005,2025-03-10,North,Technology,15400,4200,5
+5006,2025-03-22,West,Office Supplies,4100,700,10
+5007,2025-04-05,South,Furniture,6800,900,2
+5008,2025-04-18,East,Technology,18200,5200,6
+5009,2025-05-07,North,Office Supplies,5300,1100,12
+5010,2025-05-25,West,Technology,14100,3600,4
+5011,2025-06-09,South,Technology,11800,2600,3
+5012,2025-06-21,East,Office Supplies,6100,1300,9

@@ -1,0 +1,13 @@
+Employee ID,Department,Age,Monthly Income,Attrition,Job Satisfaction,OverTime,Years At Company
+1001,Sales,34,6200,No,4,Yes,5
+1002,Engineering,29,7800,No,3,No,3
+1003,HR,41,5400,Yes,2,Yes,9
+1004,Engineering,36,9200,No,5,No,7
+1005,Sales,27,4800,Yes,2,Yes,2
+1006,Finance,45,10500,No,4,No,12
+1007,Marketing,31,6100,No,3,No,4
+1008,Sales,39,7000,No,4,Yes,8
+1009,Finance,33,8300,No,5,No,6
+1010,Marketing,28,5200,Yes,2,Yes,2
+1011,Engineering,42,11200,No,4,No,10
+1012,HR,37,5900,No,3,No,6
